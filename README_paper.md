@@ -1,6 +1,6 @@
 # The code for reproducing the ImageNet results in the ICLR2018 papers; [spectral normalization][sngans] and [projection discrimiantor][pcgans]
 
-Official Chainer implementation for reproducing the results of conditional image generation on ILSVRC2012 dataset (ImageNet) with [spectral normalization][sngans] and [projection discrimiantor][pcgans].
+OFFICIAL Chainer implementation for reproducing the results of conditional image generation on ILSVRC2012 dataset (ImageNet) with [spectral normalization][sngans] and [projection discrimiantor][pcgans].
 
 ### References
 - Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida. *Spectral Normalization for Generative Adversarial Networks*. ICLR2018. [OpenReview][sngans]
